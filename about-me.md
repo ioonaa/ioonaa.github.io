@@ -11,7 +11,6 @@ I am part of the [Phonetics and Phonology](http://www.coli.uni-saarland.de/group
 
           
 ![Foto]({{ site.url }}/images/iona.png "iona.png") 
-<!--![Foto](https://github.com/ioonaa/ioonaa.github.io/blob/master/images/iona.png "iona.png")-->
 
 ## Contact
 <table>
