@@ -6,12 +6,12 @@ permalink: /teaching/
 
 #### Summer Semester 2018 @ UdS Saarbrücken
  <ul>
-   <li>Übung: Einführung in die Phonetik und Phonologie</li>
+   <li>Ü: Einführung in die Phonetik und Phonologie</li>
  </ul> 
 
 #### Summer Semester 2017 @ UdS Saarbrücken
  <ul>
-  <li>Übung: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt</li>
+  <li>Ü: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt</li>
  </ul> 
   
 #### 2015/1 @ UFRGS Porto Alegre
