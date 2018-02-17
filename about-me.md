@@ -10,9 +10,7 @@ In the course of my education as a phonetician, I was engaged in various fields 
 
 I am part of the [Phonetics and Phonology](http://www.coli.uni-saarland.de/groups/WB/Phonetics/) research group headed by [Prof. Dr. Bernd Möbius](http://www.coli.uni-saarland.de/~moebius/). Our group belongs to the [Language Science and Technology](https://www.uni-saarland.de/en/department/lst/home.html) department at [Saarland University](https://www.uni-saarland.de/nc/en/home.html), Saarbrücken.
 
-<!-- ![placeholder]({{ site.url }}/images/iona.png "iona.png") -->
-<!-- ![Foto](https://github.com/ioonaa/ioonaa.github.io/blob/master/images/iona.png "iona.png") -->
-
+![Foto](https://github.com/ioonaa/ioonaa.github.io/blob/master/images/iona.png "iona.png")
 
 ## Contact
 <table>
