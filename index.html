@@ -35,3 +35,16 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<script>
+  $(document).on('ready', function(){
+    //animate in title
+    $('.site-title').find('div').removeClass('site-title-displayed');
+    $('.site-title').find('div').addClass('site-title-hidden');
+
+    var deg = 180;
+    setInterval(function(){
+      deg += 180;
+    }, 20);
+  });
+</script>
