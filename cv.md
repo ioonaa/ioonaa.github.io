@@ -13,7 +13,7 @@ title: Curriculum Vitae
 <dl>
 	<dt>2015-2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
-	<dd>Project: REDE</dd>
+	<dd>Project: REDE – Regionalsprache.de</dd>
 </dl>
 
 <dl>
