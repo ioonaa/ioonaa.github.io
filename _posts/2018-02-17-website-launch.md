@@ -3,4 +3,4 @@ layout: post
 title: Website Launch
 ---
   
-It wasn't that difficult to launch this website, after all – thanks to [Github Pages](https://pages.github.com/) for the very convenient repository integration and free hosting, as well as to [Mark Otto](https://twitter.com/mdo) for his great [Jekyll package](https://github.com/poole/hyde).
+It wasn't that difficult to launch a website, after all... Thanks to [Github Pages](https://pages.github.com/) for the very convenient repository integration and free hosting, the guys at [Jekyll](https://jekyllrb.com/), as well as to [Mark Otto](https://github.com/mdo) for his great [Jekyll theme](https://github.com/poole/hyde).
