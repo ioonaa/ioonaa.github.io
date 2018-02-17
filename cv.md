@@ -7,11 +7,13 @@ title: Curriculum Vitae
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
+	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
 </dl>
 
 <dl>
 	<dt>2015-2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
+	<dd>Project: REDE</dd>
 </dl>
 
 <dl>
