@@ -3,11 +3,15 @@ layout: page
 title: Teaching
 ---
 
- ## Summer Semester 2017 @ UdS Saarbrücken
- * Übung: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt
+<dt>Summer Semester 2018 @ UdS Saarbrücken</dt>
+ <ul>
+   <li>Übung: Einführung in die Phonetik und Phonologie</li>
+ </ul> 
 
- <dt>Summer Semester 2018 @ UdS Saarbrücken</dt>
- * Übung: Einführung in die Phonetik und Phonologie
+<dt>Summer Semester 2017 @ UdS Saarbrücken</dt>
+ <ul>
+  <li>Übung: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt</li>
+ </ul> 
   
  <dt>2015/1 @ UFRGS Porto Alegre</dt>
  * Língua alemã I (GER A1.1)
