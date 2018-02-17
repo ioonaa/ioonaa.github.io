@@ -56,6 +56,11 @@ html {
   padding-right: 1rem;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
 
 .sidebar-photo {
   border: 2px solid white;
