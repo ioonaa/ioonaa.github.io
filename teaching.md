@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
- <dt>Summer Semester 2017 @ UdS Saarbrücken</dt>
+ ## Summer Semester 2017 @ UdS Saarbrücken
  * Übung: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt
 
  <dt>Summer Semester 2018 @ UdS Saarbrücken</dt>
