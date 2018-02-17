@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Teaching &middot; Iona Gessinger
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Outside scripts -->
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+</head>
+
+
+  <body class="theme-base-0e">
+
+    <div class="sidebar">
+  <div class="sidebar-sticky">
+    
+    <!-- <div class='first sidebar-content'>
+      <img class='sidebar-photo' src="/public/profilephoto.jpeg"> -->
+
+      <div class="sidebar-about">
+        <h1 class="site-title">
+            <div class="site-title-first site-title-displayed">
+              <span>I</span><span>o</span><span>n</span><span>a</span>
+            </div>
+            <div class="site-title-second site-title-displayed">
+              <span>G</span><span>e</span><span>s</span><span>s</span><span>i</span><span>n</span><span>g</span><span>e</span><span>r</span>
+            </div>
+            
+        </h1>
+        <p class="lead">Research Assistant & <br> PhD Student <br> @ Saarland University</p>
+      </div>
+<!--     </div>
+
+    <div class='second sidebar-content'> -->
+      <nav class="sidebar-nav">
+        <ul>
+        <li class="spinX sidebar-nav-item">
+          <a href="/">News</a>
+        </li>
+
+        
+
+        
+        
+          
+            
+          
+        
+          
+            
+              <li class="spinX sidebar-nav-item">
+                <a href="/aboutme/">About Me</a>
+              </li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="spinX sidebar-nav-item">
+                <a href="/cv/">CV</a>
+              </li>
+            
+          
+        
+          
+            
+          
+        
+          
+            
+              <li class="spinX sidebar-nav-item">
+                <a href="/publications/">Publications</a>
+              </li>
+            
+          
+        
+          
+            
+              <li class="spinX sidebar-nav-item active">
+                <a href="/teaching/">Teaching</a>
+              </li>
+            
+          
+        
+
+        <li class="spinX sidebar-nav-item">
+          <a href="https://de.linkedin.com/in/iona-gessinger-a18744124" target="_blank"><i class="link-icons fa fa-linkedin-square"></i></a>
+          <a href="https://www.researchgate.net/profile/Iona_Gessinger_2" target="_blank"><i class="link-icons first-icon fa fa-clipboard"></i></a>
+          <a href="http://www.github.com/ioonaa" target="_blank"><i class="link-icons first-icon fa fa-github"></i></a>
+          <a href="mailto:gessinger@coli.uni-saarland.de"><i class="link-icons fa fa-envelope"></i></a>
+        </li>
+        </ul>
+      </nav>
+        <p>&copy; 2018. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://hyde.getpoole.com/" target="_blank">Hyde</a>. Powered by <a href="https://pages.github.com" target="_blank">Github</a>. All rights reserved.</p>
+    </div>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Teaching</h1>
+  <dl>
+  <dt>Summer Semester 2017</dt>
+  <dd>Übung: Einführung in die Phonetik und Phonologie, co-taught with Erika Brandt</dd>
+
+  <dt>Summer Semester 2018</dt>
+  <dd>Übung: Einführung in die Phonetik und Phonologie</dd>
+</dl>
+
+</div>
+
+    </div>
+
+    <script>
+      $(document).on('ready', function(){
+        $('.spinX').css('-webkit-transform', 'rotateX(-360deg)');
+
+        //add offsets to icons
+        var icons = $('.fa');
+        for(var i = 0; i < icons.length; i++) {
+          icons[i].offset = 0;
+        }
+
+        var mouseOffset = 0;
+        var timer;
+        var r = 124;
+        var g = 78;
+        var b = 193;
+        var direction = 1;
+        // var rand;
+        $('body').find('.fa').on('mouseenter', function(){
+          timer = setInterval(function(){
+            this.offset++;
+            $(this).css({
+              '-moz-transform': 'rotate(' + this.offset + 'deg)',
+              '-webkit-transform': 'rotate(' + this.offset + 'deg)',
+              '-o-transform': 'rotate(' + this.offset + 'deg)',
+              '-ms-transform': 'rotate(' + this.offset + 'deg)',
+              'transform': 'rotate(' + this.offset + 'deg)',
+            });
+
+            // rand = Math.floor(Math.random() * 2) * direction;
+            // r += rand;
+            // g += rand;
+            // b += rand;
+            // if(b > 255) {
+            //   direction = -1;
+            // } else if(b < 125){
+            //   direction = 1;
+            // }
+
+            $(this).css({'color' : 'rgb('+r+', '+g+', '+b+')'});
+          }.bind(this), 1);
+
+        });
+        $('body').find('.fa').on('mouseleave', function(){
+          clearInterval(timer);
+
+          $(this).css({'color' : 'rgb('+255+', '+255+', '+255+')'});
+
+        });
+     
+        var scrollOffset;
+        $(window).scroll(function() {
+          scrollOffset = $(window).scrollTop() + mouseOffset;
+          for(var i = 0; i < icons.length; i++) {
+            icons[i].offset += 10;
+            icons[i].style['-moz-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-webkit-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-ms-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-moz-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['transform'] = 'rotate(' + icons[i].offset + 'deg)';
+          }
+        });
+      });
+
+    </script>
+
+  </body>
+</html>

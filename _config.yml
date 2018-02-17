@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+plugins: 	        [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Iona Gessinger
+tagline:          'Phonetics'
+description:      'Research Assistant & <br> PhD Student <br> @ Saarland University'
+url:              https://ioonaa.github.io/
+baseurl:          /
+
+author:
+name:           'Iona Gessinger'
+url:            https://ioonaa.github.io/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+repo:           https://github.com/ioonaa

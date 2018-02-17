@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0e">
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+    <script>
+      $(document).on('ready', function(){
+        $('.spinX').css('-webkit-transform', 'rotateX(-360deg)');
+
+        //add offsets to icons
+        var icons = $('.fa');
+        for(var i = 0; i < icons.length; i++) {
+          icons[i].offset = 0;
+        }
+
+        var mouseOffset = 0;
+        var timer;
+        var r = 124;
+        var g = 78;
+        var b = 193;
+        var direction = 1;
+        // var rand;
+        $('body').find('.fa').on('mouseenter', function(){
+          timer = setInterval(function(){
+            this.offset++;
+            $(this).css({
+              '-moz-transform': 'rotate(' + this.offset + 'deg)',
+              '-webkit-transform': 'rotate(' + this.offset + 'deg)',
+              '-o-transform': 'rotate(' + this.offset + 'deg)',
+              '-ms-transform': 'rotate(' + this.offset + 'deg)',
+              'transform': 'rotate(' + this.offset + 'deg)',
+            });
+
+            // rand = Math.floor(Math.random() * 2) * direction;
+            // r += rand;
+            // g += rand;
+            // b += rand;
+            // if(b > 255) {
+            //   direction = -1;
+            // } else if(b < 125){
+            //   direction = 1;
+            // }
+
+            $(this).css({'color' : 'rgb('+r+', '+g+', '+b+')'});
+          }.bind(this), 1);
+
+        });
+        $('body').find('.fa').on('mouseleave', function(){
+          clearInterval(timer);
+
+          $(this).css({'color' : 'rgb('+255+', '+255+', '+255+')'});
+
+        });
+     
+        var scrollOffset;
+        $(window).scroll(function() {
+          scrollOffset = $(window).scrollTop() + mouseOffset;
+          for(var i = 0; i < icons.length; i++) {
+            icons[i].offset += 10;
+            icons[i].style['-moz-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-webkit-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-ms-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['-moz-transform'] = 'rotate(' + icons[i].offset + 'deg)';
+            icons[i].style['transform'] = 'rotate(' + icons[i].offset + 'deg)';
+          }
+        });
+      });
+
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,55 @@
+<div class="sidebar">
+  <div class="sidebar-sticky">
+    
+    <!-- <div class='first sidebar-content'>
+      <img class='sidebar-photo' src="/public/profilephoto.jpeg"> -->
+
+      <div class="sidebar-about">
+        <h1 class="site-title">
+            <div class="site-title-first site-title-displayed">
+              <span>I</span><span>o</span><span>n</span><span>a</span>
+            </div>
+            <div class="site-title-second site-title-displayed">
+              <span>G</span><span>e</span><span>s</span><span>s</span><span>i</span><span>n</span><span>g</span><span>e</span><span>r</span>
+            </div>
+            
+        </h1>
+        <p class="lead">{{ site.description }}</p>
+      </div>
+<!--     </div>
+
+    <div class='second sidebar-content'> -->
+      <nav class="sidebar-nav">
+        <ul>
+        <li class="spinX sidebar-nav-item{% if page.title == "News" %} active{% endif %}">
+          <a href="/">News</a>
+        </li>
+
+        {% comment %}
+          The code below dynamically generates a sidebar nav of pages with
+          `layout: page` in the front-matter. See readme for usage.
+        {% endcomment %}
+
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+          {% if node.title != null %}
+            {% if node.layout == "page" %}
+              <li class="spinX sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+                <a href="{{ node.url }}">{{ node.title }}</a>
+              </li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        <li class="spinX sidebar-nav-item">
+          <a href="https://de.linkedin.com/in/iona-gessinger-a18744124" target="_blank"><i class="link-icons fa fa-linkedin-square"></i></a>
+          <a href="https://www.researchgate.net/profile/Iona_Gessinger_2" target="_blank"><i class="link-icons first-icon fa fa-clipboard"></i></a>
+          <a href="http://www.github.com/ioonaa" target="_blank"><i class="link-icons first-icon fa fa-github"></i></a>
+          <a href="mailto:gessinger@coli.uni-saarland.de"><i class="link-icons fa fa-envelope"></i></a>
+        </li>
+        </ul>
+      </nav>
+        <p>&copy; {{ site.time | date: '%Y' }}. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://hyde.getpoole.com/" target="_blank">Hyde</a>. Powered by <a href="https://pages.github.com" target="_blank">Github</a>. All rights reserved.</p>
+    </div>
+  </div>
+</div>
