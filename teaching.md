@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Teaching
+permalink: /teaching/
 ---
 
-<dt>Summer Semester 2018 @ UdS Saarbrücken</dt>
+### Summer Semester 2018 @ UdS Saarbrücken
  <ul>
    <li>Übung: Einführung in die Phonetik und Phonologie</li>
  </ul> 
