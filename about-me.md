@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-![Foto]({{ site.url }}/images/iona.png "iona.png"){:height="300px" .center.image}
+![Foto]({{ site.url }}/images/iona.png "iona.png"){:height="300px" .center-image}
 
 In the course of my education as a phonetician, I was engaged in various fields of application. Having a background in Romance studies, I started with the phonetics of <strong>foreign language learning</strong>, continued in the area of <strong>forensic phonetics</strong>, and am now working on <strong>phonetic accommodation in human-computer interaction</strong>. As spoken dialogue systems are becoming a part of our daily life, it is imperative to further explore the behavior of their human interlocutor.
 
