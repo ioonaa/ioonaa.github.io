@@ -45,7 +45,7 @@ title: Curriculum Vitae
 	<dd><strong>Bachelor of Arts (BA)</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em></dd>
 </dl>
 
-## Other
+## Volunteer Experience
 
 <dl>
 	<dt>since 2016</dt>	
@@ -63,3 +63,12 @@ www.isca-students.org</dd>
 	<dd>I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.<br>
 www.sites.google.com/site/2017yrrsds</dd>
 </dl>
+
+<dl>
+	<dt>since 2013</dt>	
+	<dd><strong>Newsreader</strong><br>
+	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em></dd>
+	<dd>MIKS - an audio journal for visually impaired and blind people.</dd>
+</dl>
+
+
