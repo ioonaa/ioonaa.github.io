@@ -190,7 +190,7 @@ pre code {
 }
 
 /* Gist via GitHub Pages */
-.gist .gist-file {
+/*.gist .gist-file {
   font-family: Menlo, Monaco, "Courier New", monospace !important;
 }
 .gist .markdown-body {
@@ -209,7 +209,7 @@ pre code {
   color: inherit;
   background-color: transparent;
   border-radius: 0;
-}
+}*/
 
 /* Quotes */
 blockquote {
