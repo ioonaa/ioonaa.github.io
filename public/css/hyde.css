@@ -51,34 +51,34 @@ html {
  * Added classes/ids
  */
 
-.comic  {
-  float: right;
-  padding-right: 1rem;
-}
-
 .center-image
 {
     margin: 0 auto;
-    display: block;
 }
 
-.callout {
-    float: right;
+.right-image
+{
+    margin: 0 0 0 auto;
 }
 
-.sidebar-photo {
+/*.comic  {
+  float: right;
+  padding-right: 1rem;
+}*/
+
+/*.sidebar-photo {
   border: 2px solid white;
-}
+}*/
 
-.site-title-first span, .site-title-second span{
+/*.site-title-first span, .site-title-second span{
   opacity: 0.1;
   color: #FFA690;
-  /*opacity: 1;
-  color: white;*/
+  opacity: 1;
+  color: white;
   transition: opacity 750ms, color 2500ms;
-}
+}*/
 
-.site-title-first span:nth-child(1)  { transition-delay:  200ms }
+/*.site-title-first span:nth-child(1)  { transition-delay:  200ms }
 .site-title-first span:nth-child(2)  { transition-delay:  450ms }
 .site-title-first span:nth-child(3)  { transition-delay:  300ms }
 .site-title-first span:nth-child(4)  { transition-delay:  550ms }
@@ -90,9 +90,9 @@ html {
 .site-title-second span:nth-child(3)  { transition-delay:  150ms }
 .site-title-second span:nth-child(4)  { transition-delay:  600ms }
 .site-title-second span:nth-child(5)  { transition-delay:  300ms }
-.site-title-second span:nth-child(6)  { transition-delay:  240ms }
+.site-title-second span:nth-child(6)  { transition-delay:  240ms }*/
 
-.site-title-displayed span{
+/*.site-title-displayed span{
   opacity: 1;
   color: white;
 }
@@ -115,7 +115,7 @@ html {
 
 .spinX {
   transition: -webkit-transform 3000ms;
-}
+}*/
 
 /*
  * Sidebar
