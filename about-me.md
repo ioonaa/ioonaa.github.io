@@ -19,7 +19,7 @@ I am part of the <a href="http://www.coli.uni-saarland.de/groups/WB/Phonetics/" 
   <tbody>
     <tr>
       <td>Postal address:</td>
-      <td>Universität des Saarlandes<br>
+      <td>Universität des Saarlandes
           Campus C72 4.09<br>
       	66123 Saarbrücken<br>
       	Germany</td>
