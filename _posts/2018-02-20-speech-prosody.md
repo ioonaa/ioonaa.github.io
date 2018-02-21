@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Accepted] Speech Prosody
+title: Accepted: Speech Prosody
 ---
 
 Paper <strong>Convergence of Pitch Accents in a Shadowing Task</strong> authored by I. Gessinger, A. Schweitzer, 
