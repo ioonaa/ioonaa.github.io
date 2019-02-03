@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Chic Project
+title: CHIC Project
+permalink: /chicproject/
 ---
 
 This research project is concerned with phonetic convergence in human-computer interaction. It is funded by the DFG (2016-2020) and led by <strong>Bernd Möbius</strong> (Saarland University) and <strong>Ingmar Steiner</strong> (audEERING GmbH). The CHIC team further consists of research assistants <strong>Eran Raveh</strong> (Saarland University) and <strong>Iona Gessinger</strong> (Saarland University) and is supported by <strong>Sébastien Le Maguer</strong> (Trinity College Dublin ).
