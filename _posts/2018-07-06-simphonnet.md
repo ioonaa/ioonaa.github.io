@@ -7,4 +7,4 @@ Many thanks to <strong>SimPhon.Net</strong> in cooperation with the Stuttgart Re
 for having us at their workhop on <strong>psycholinguistic, cognitive and neurolinguistic modeling in phonetics and phonology</strong>.
 We had a great time both during the scientific discussions and when exploring the beautifully situated University of Hohenheim.
 
-[Book of Abstracts: www.simphon.net/simphon_workshop5.pdf]
+[Book of abstracts: www.simphon.net/simphon_workshop5.pdf]
