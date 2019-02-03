@@ -6,7 +6,7 @@ permalink: /publications/
 
 <dl>
   <dt>2019</dt>	
-  <dd>E. Raveh, I. Steiner, Ingo Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: Proceedings of the 30th Conference on Electronic Speech Signal Processing (ESSV), Dresden/Germany. [Full Paper, accepted]</dd>
+  <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: Proceedings of the 30th Conference on Electronic Speech Signal Processing (ESSV), Dresden/Germany. [Full Paper, accepted]</dd>
   <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), Bremen/Germany. [Abstract, Talk]</dd>
   
   <dt>2018</dt>	
