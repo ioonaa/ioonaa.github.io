@@ -8,3 +8,5 @@ Our talk was part of the session on <strong>accommodation in human-machine inter
 
 <a href="https://www.spur.uzh.ch/dam/jcr:17633c54-f8cf-4263-af3d-d0f0db1c89ad/Booklet%20Abstracts%20WS%20Accommodation%20Dec%202018.pdf" 
 target="_blank" rel="noopener">Book of abstracts</a>
+
+![Foto]({{ site.url }}/images/zurich.jpg "zurich.jpg"){:height="400px" .center-image}
