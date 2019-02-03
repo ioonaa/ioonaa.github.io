@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-## Contact
 <table>
   <tbody>
     <tr>
