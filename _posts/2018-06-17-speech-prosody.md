@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech Prosody (June 13-16, 2018)
+title: Speech Prosody 9 (June 13-16, 2018)
 ---
 
 We presented our paper <a href="https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/160.pdf" target="_blank" rel="noopener"><strong>Convergence of Pitch Accents in a Shadowing Task</strong></a> at this year's <strong>International Conference on Speech Prosody</strong> held from June 13 to 16, 2018 at Collegium Iuridicum Novum, Adam Mickiewicz University in Poznań, Poland.
