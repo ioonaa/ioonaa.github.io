@@ -11,31 +11,3 @@ In the course of my education as a phonetician, I was engaged in various fields 
 
 
 I am part of the <a href="http://www.coli.uni-saarland.de/groups/WB/Phonetics/" target="_blank" rel="noopener">Phonetics and Phonology</a> research group headed by <a href="http://www.coli.uni-saarland.de/~moebius/" target="_blank" rel="noopener">Prof. Dr. Bernd Möbius</a>. Our group belongs to the <a href="https://www.uni-saarland.de/en/department/lst/home.html" target="_blank" rel="noopener">Language Science and Technology</a> department at <a href="https://www.uni-saarland.de/nc/en/home.html" target="_blank" rel="noopener">Saarland University</a>, Saarbrücken.
-
-          
-
-## Contact
-<table>
-  <tbody>
-    <tr>
-      <td>Postal address:</td>
-      <td>Iona Gessinger <br>
-          Universität des Saarlandes <br>
-          Campus C72 4.09 <br>
-          66123 Saarbrücken <br> 
-      	Germany</td>
-    </tr>
-    <tr>
-      <td>Office:</td>
-      <td>Building C72, Room 4.09</td>
-    </tr>         
-    <tr>
-      <td>Telephone:</td>
-      <td>+49 (0)681 302 4689</td>
-    </tr>
-    <tr>
-      <td>E-mail:</td>
-      <td>gessinger AT coli DOT uni-saarland DOT de</td>
-    </tr>
-  </tbody>
-</table>
