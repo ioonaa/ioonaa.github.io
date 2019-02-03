@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Accommodation Workshop (December 13, 2018)
