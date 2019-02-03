@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 <dl>
+  <dt>2019</dt>	
+  <dd>E. Raveh, I. Steiner, Ingo Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: Proceedings of the 30th Conference on Electronic Speech Signal Processing (ESSV), Dresden/Germany. [Full Paper, accepted]</dd>
+  <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), Bremen/Germany. [Abstract, Talk]</dd>
+  
   <dt>2018</dt>	
   <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://arxiv.org/pdf/1809.04945.pdf" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: International Conference on Speech and Computer. Springer, Cham, p. 552-562. [Full Paper, Talk]</dd>
   <dd><strong>I. Gessinger</strong>, A. Schweitzer, B. Andreeva, E. Raveh, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/160.pdf" target="_blank" rel="noopener"><em>Convergence of Pitch Accents in a Shadowing Task.</em></a> In: Proceedings of Speech Prosody 9, Poznań/Poland, p. 225-229. [Full Paper, Talk]</dd>
