@@ -6,7 +6,7 @@ permalink: /teaching/
 
 #### Winter Semester 2018/19 @ UdS Saarbrücken
  <ul>
-   <li>Ü: Speech Science [<a href="http://www.coli.uni-saarland.de/courses/speech-science/2018_WS/speech-science.html" target="_blank" rel="noopener">course homepage</a>]</li>
+   <li>Ü: Speech Science [<a href="http://www.coli.uni-saarland.de/courses/speech-science/2018_WS/speech-science.html" target="_blank" rel="noopener">course website</a>]</li>
  </ul> 
  
 #### Summer Semester 2018 @ UdS Saarbrücken
