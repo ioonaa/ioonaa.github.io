@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SimPhon.Net Workshop, June 4–6, 2018
+title: SimPhon.Net Workshop: June 4–6, 2018
 ---
 
 Many thanks to <b>SimPhon.Net<\b> in cooperation with the Stuttgart Research Focus (SRF) <b>Language and Cognition<\b> 
