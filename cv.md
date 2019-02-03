@@ -8,6 +8,7 @@ title: Curriculum Vitae
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
+	<dd>Project: Phonetic Convergence in Human-Computer Interaction</dd>
 </dl>
 
 <dl>
@@ -50,10 +51,10 @@ title: Curriculum Vitae
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2017 <em>Board Member/Webmaster</em><br>
+		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
-www.isca-students.org</dd>
+	<a href="www.isca-students.org" target="_blank">ISCA-SAC website</a> </dd>
 </dl>
 
 <dl>
@@ -61,7 +62,7 @@ www.isca-students.org</dd>
 	<dd><strong>Local Organizer</strong><br>
 	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em></dd>
 	<dd>I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.<br>
-www.sites.google.com/site/2017yrrsds</dd>
+	<a href="www.sites.google.com/site/2017yrrsds" target="_blank">YRRSDS 2017 website</a></dd> 
 </dl>
 
 <dl>
