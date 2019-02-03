@@ -54,7 +54,7 @@ title: Curriculum Vitae
 		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
-	[<a href="https://www.isca-students.org" target="_blank" rel="noopener">ISCA-SAC website</a>] </dd>
+	[ISCA-SAC website: www.isca-students.org] </dd>
 	
 	
 </dl>
