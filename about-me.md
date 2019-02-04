@@ -11,3 +11,5 @@ In the course of my education as a phonetician, I was engaged in various fields 
 
 
 I am part of the <a href="http://www.coli.uni-saarland.de/groups/WB/Phonetics/" target="_blank" rel="noopener">Phonetics and Phonology</a> research group headed by <a href="http://www.coli.uni-saarland.de/~moebius/" target="_blank" rel="noopener">Prof. Bernd Möbius</a>. Our group belongs to the <a href="https://www.uni-saarland.de/en/department/lst/home.html" target="_blank" rel="noopener">Language Science and Technology</a> department at <a href="https://www.uni-saarland.de/nc/en/home.html" target="_blank" rel="noopener">Saarland University</a>, Saarbrücken.
+
+I am pursuing a PhD on the topic of <strong>phonetic accommodation of human interlocutors in the context of human-computer interaction</strong> within the <a href="https://ioonaa.github.io/chicproject/" >CHIC Project</a>. 
