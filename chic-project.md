@@ -12,6 +12,8 @@ In the first year of funding we have demonstrated that human experimental subjec
 
 In the second funding phase the project aims to extend the experimental approach to a Wizard-of-Oz scenario, develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
 
+Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a> and <a href="https://www.mmci.uni-saarland.de/en/eraveh" target="_blank" rel="noopener">here</a>.
+
 Current and past collaborators (including student assistants) of the CHIC project are (in alphabetical order):
 <ul>
   <li><strong>Bistra Andreeva</strong> (Saarland University)</li>
@@ -22,7 +24,3 @@ Current and past collaborators (including student assistants) of the CHIC projec
   <li><strong>Antje Schweitzer</strong> (Stuttgart University)</li>
   <li><strong>Ingo Siegert</strong> (Otto-von-Guericke University, Magdeburg)</li>
 </ul> 
-
-Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a> and <a href="https://www.mmci.uni-saarland.de/en/eraveh" target="_blank" rel="noopener">here</a>.
-  
-  
