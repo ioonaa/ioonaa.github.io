@@ -28,3 +28,5 @@ permalink: /contact/
     </tr>
   </tbody>
 </table>
+
+![Foto]({{ site.url }}/images/c72.jpg "c72.jpg"){:height="260px" .center-image}
