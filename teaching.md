@@ -34,5 +34,5 @@ permalink: /teaching/
  <ul>
   <li>Língua alemã IV (GER A2.2)</li>
   <li>Língua alemã VI (GER B1.2)</li>
-  <li>Cultura alemã II, co-taught with Prof. Dr. Cléo Altenhofen</li>
+  <li>Cultura alemã II, co-taught with Prof. Cléo Altenhofen</li>
  </ul> 
