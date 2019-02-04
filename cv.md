@@ -9,13 +9,13 @@ permalink: /cv/
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
-	<dd>Project: CHIC - Phonetic Convergence in Human-Computer Interaction /chicproject/</dd>
+	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a></dd>
 </dl>
 
 <dl>
 	<dt>2015-2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
-	<dd>Project: REDE – Regionalsprache.de</dd>
+	<dd>Project: <a href="https://www.regionalsprache.de/REDE" target="_blank" rel="noopener">REDE – Regionalsprache.de</a></dd>
 </dl>
 
 <dl>
