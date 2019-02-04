@@ -9,7 +9,7 @@ permalink: /cv/
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
-	<dd>Project: CHIC - Phonetic Convergence in Human-Computer Interaction /chic/</dd>
+	<dd>Project: CHIC - Phonetic Convergence in Human-Computer Interaction /chicproject/</dd>
 </dl>
 
 <dl>
