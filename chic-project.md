@@ -10,7 +10,7 @@ Phonetic convergence denotes an increase in similarity of the speech patterns of
 
 In the first year of funding we have demonstrated that human experimental subjects show patterns of phonetic convergence when being exposed to synthetic voices that are similar to the convergence patterns observed in human-human interaction.
 
-![Foto]({{ site.url }}/images/experiment.jpg "experiment.jpg"){:height="260px" .center-image}
+![Foto]({{ site.url }}/images/experiment.jpg "experiment.jpg"){:height="200px" .center-image}
 
 In the second funding phase the project aims to extend the experimental approach to a Wizard-of-Oz scenario, develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
 
