@@ -16,7 +16,7 @@ permalink: /publications/
 
   <dt>2017</dt>	
     <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Proceedings of Interspeech, Stockholm/Sweden, p. 3797-3801. [Conference, Full Paper, Talk]</dd>
-    <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Proceedings of Phonetik und Phonologie 13, Berlin/Germany, p. 45-46. [Abstract, Talk]</dd>
+    <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Proceedings of Phonetik und Phonologie 13, Berlin/Germany, p. 45-46. [Conference, Abstract, Talk]</dd>
     <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner: <em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em> In: Proceedings of the 28th Conference on Electronic Speech Signal Processing (ESSV), Saarbrücken/Germany, p. 254-261. [Conference, Full Paper, Poster]</dd>
 
   <dt>2016</dt>	
