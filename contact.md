@@ -29,4 +29,4 @@ permalink: /contact/
   </tbody>
 </table>
 
-![Foto]({{ site.url }}/images/c72.jpg "c72.jpg"){:height="260px" .center-image}
+![Foto]({{ site.url }}/images/c72.jpg "Campus C72"){:height="260px" .center-image}
