@@ -6,6 +6,7 @@ permalink: /publications/
 
 ...and Presentations
 
+Searchable Keywords: <strong>Conference, Workshop, Anniversary – Full Paper, Position Paper, Abstract – Talk, Poster</strong>
 
 <dl>
   <dt>2019</dt>	
