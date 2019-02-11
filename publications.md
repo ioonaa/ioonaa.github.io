@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Publications &amp; Presentations
+title: Publications
 permalink: /publications/
 ---
+
+...and Presentations
+
 
 <dl>
   <dt>2019</dt>	
