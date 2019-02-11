@@ -7,9 +7,9 @@ permalink: /publications/
 ...and Presentations
 
 Searchable Keywords:<br> 
-<strong>[Conference/Workshop/Anniversary,<br>
-Full Paper/Position Paper/Abstract,<br> 
-Talk/Poster/Accepted]</strong>
+<strong>[Conference / Workshop / Anniversary,<br>
+Full Paper / Position Paper / Abstract,<br> 
+Talk / Poster / Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
