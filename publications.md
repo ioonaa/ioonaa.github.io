@@ -23,11 +23,13 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
   
   <dt>2017</dt>	
     <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Proceedings of Interspeech, Stockholm/Sweden, p. 3797-3801. [Conference, Full Paper, Talk]</dd>
-    <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, Berlin/Germany, p. 45-46. [Conference, Abstract, Talk]</dd>
-    <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner: <em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em> In: Proceedings of the 28th Conference on Electronic Speech Signal Processing (ESSV), Saarbrücken/Germany, p. 254-261. [Conference, Full Paper, Poster]</dd>
+    <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, September 28-29, Berlin/Germany, p. 45-46. [Conference, Abstract, Talk]</dd>
+    <dd><strong>I. Gessinger</strong>: <em>Position Paper.</em> In: 13th Young Researchers' Roundtable on Spoken Dialogue Systems, August 13-14, Saarbrücken/Germany. [Workshop, Position Paper, Poster]</dd>
+    <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner: <em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em> In: Proceedings of the 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, p. 254-261. [Conference, Full Paper, Poster]</dd>
 
   <dt>2016</dt>	
-    <dd><strong>I. Gessinger</strong>, E. Raveh, J. O’Mahony, I. Steiner, B. Möbius: <em>A Shadowing Experiment with Natural and Synthetic Stimuli.</em> In: Proceedings of Phonetik und Phonologie 12, Munich/Germany, p. 58-61. [Conference, Full Paper, Poster]</dd>
+    <dd><strong>I. Gessinger</strong>, E. Raveh, J. O’Mahony, I. Steiner, B. Möbius: <em>A Shadowing Experiment with Natural and Synthetic Stimuli.</em> In: Proceedings of Phonetik und Phonologie 12, October 13-14, Munich/Germany, p. 58-61. [Conference, Full Paper, Poster]</dd>
+    <dd>E. Raveh and <strong>I. Gessinger</strong>: <em>Position Paper.</em> In: 12th Young Researchers' Roundtable on Spoken Dialogue Systems, September 16-18, Los Angeles/USA. [Workshop, Position Paper, Poster]</dd>
 
   <dt>2015</dt>
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: Proceedings of the 24th annual conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Leiden/The Netherlands. [Conference, Abstract, Talk]</dd>
