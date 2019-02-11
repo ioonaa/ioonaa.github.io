@@ -7,12 +7,12 @@ permalink: /publications/
 ...and Presentations
 
 Searchable Keywords: 
-<strong>[Conference, Workshop, Anniversary – Full Paper, Position Paper, Abstract – Talk, Poster]</strong>
+<strong>[Conference, Workshop, Anniversary – Full Paper, Position Paper, Abstract – Talk, Poster, Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
   <!-- <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em> In: Proceedings of ICPhS, Melbourne/Australia. [Conference, Abstract, Talk]</dd> -->
-  <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany. [Conference, Full Paper, accepted]</dd>
+  <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany. [Conference, Full Paper, Accepted]</dd>
   <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany. [Conference, Abstract, Talk]</dd>
   
   <dt>2018</dt>	
