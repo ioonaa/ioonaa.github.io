@@ -52,7 +52,7 @@ permalink: /cv/
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2017 <em>Board Member</em><br>
+		since 2017 <em>Board Member/Event Coordinator</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
 	[ISCA-SAC website: www.isca-students.org] </dd>
