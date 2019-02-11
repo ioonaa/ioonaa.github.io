@@ -6,7 +6,7 @@ permalink: /publications/
 
 ...and Presentations
 
-Searchable Keywords: 
+Searchable Keywords:<br> 
 <strong>[Conference/Workshop/Anniversary, Full Paper/Position Paper/Abstract, Talk/Poster/Accepted]</strong>
 
 <dl>
