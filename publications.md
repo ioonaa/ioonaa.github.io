@@ -34,7 +34,7 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
   <dt>2017</dt>	
    <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em> In: 25th Anniversary of the Department of Computational Linguistics and Phonetics, October 28, Saarbrücken/Germany.<br> [Anniversary, Abstract, Poster]</dd>
 
-<dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Proceedings of Interspeech, August 20-24, Stockholm/Sweden, p. 3797-3801.<br> [Conference, Full Paper, Talk]</dd>
+<dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, p. 3797-3801.<br> [Conference, Full Paper, Talk]</dd>
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, September 28-29, Berlin/Germany.<br> [Conference, Abstract, Talk]</dd>
  
