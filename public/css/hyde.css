@@ -172,6 +172,22 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+
+/* FontA items */
+.fonta {
+  margin-bottom: 1rem;
+}
+.fonta-item {
+  display: block;
+  line-height: 1.75;
+}
+a.fonta-item:hover,
+a.fonta-item:focus {
+  color: red;
+}
+
+
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
