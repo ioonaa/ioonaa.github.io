@@ -47,7 +47,8 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
 
 <dd>E. Raveh and <strong>I. Gessinger</strong>: <em>Position Paper.</em> In: 12th Young Researchers' Roundtable on Spoken Dialogue Systems, September 16-18, Los Angeles/USA.<br> [Workshop, Position Paper, Poster]</dd>
 
-  <dt>2015</dt>
+  <dt>2015</dt> 
+     <dd><strong>I. Gessinger</strong>: <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training. Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
 </dl>
 
