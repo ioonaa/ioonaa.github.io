@@ -4,10 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<!--#### Summer Semester 2019 @ UdS Saarbrücken
+#### Summer Semester 2019 @ UdS Saarbrücken
  <ul>
    <li>Ü: Einführung in die Phonetik und Phonologie</li>
- </ul> -->
+ </ul>
 
 #### Winter Semester 2018/19 @ UdS Saarbrücken
  <ul>
