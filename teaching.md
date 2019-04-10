@@ -6,12 +6,12 @@ permalink: /teaching/
 
 #### Summer Semester 2019 @ UdS Saarbrücken
  <ul>
-   <li>Ü: Einführung in die Phonetik und Phonologie</li>
+   <li>Ü: Einführung in die Phonetik und Phonologie [<a href="http://www.coli.uni-saarland.de/courses/einf_phon_phon/2019_SS/phonphon.html" target="_blank" rel="noopener">course website</a>]</li>
  </ul>
 
 #### Winter Semester 2018/19 @ UdS Saarbrücken
  <ul>
-   <li>Ü: Speech Science [<a href="http://www.coli.uni-saarland.de/courses/speech-science/2018_WS/speech-science.html" target="_blank" rel="noopener">course website</a>]</li>
+   <li>Ü: Speech Science</li>
  </ul> 
  
 #### Summer Semester 2018 @ UdS Saarbrücken
