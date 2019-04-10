@@ -15,7 +15,7 @@ Talk / Poster / Accepted]</strong>
   <dt>2019</dt>	
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia.<br> [Conference, Full Paper, Talk]</dd>
 
-<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany.<br> [Conference, Full Paper, Accepted]</dd>
+<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany.<br> [Conference, Full Paper, Talk]</dd>
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany.<br> [Conference, Abstract, Talk]</dd>
   
