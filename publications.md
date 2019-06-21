@@ -13,6 +13,8 @@ Talk / Poster / Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
+  <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em> In: Interspeech, September 15-19, Graz/Austria.<br> [Conference, Full Paper, Talk]</dd>
+  
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia.<br> [Conference, Full Paper, Talk]</dd>
 
 <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany.<br> [Conference, Full Paper, Talk]</dd>
