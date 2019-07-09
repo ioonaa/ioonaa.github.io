@@ -54,7 +54,6 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
   <dt>2015</dt> 
      <dd><strong>I. Gessinger</strong>: <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
-</dl>
 
   <dt>2014</dt> 
      <dd><strong>I. Gessinger</strong> and und L. Löff Machado: <em>Dialetalidade como Distância Fonética: Mediação da Competência em Alemão Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Variação Linguística na Região Sul do Brasil, December 11-12, Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brazil.<br> [Anniversary, Abstract, Poster]</dd>
