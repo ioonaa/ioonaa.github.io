@@ -55,7 +55,7 @@ permalink: /cv/
 		since 2017 <em>Board Member/Event Coordinator</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
-	[ISCA-SAC website: www.isca-students.org] </dd>
+	[<a href="https://www.interspeech2019.org/students/student_events/" target="_blank" rel="noopener">Interspeech 2019</a>]</dd>
 	
 	
 </dl>
