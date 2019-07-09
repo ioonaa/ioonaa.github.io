@@ -24,6 +24,6 @@ Current and past collaborators (including student assistants) of the CHIC projec
   <li><strong>Sébastien Le Maguer</strong> (Trinity College Dublin)</li>
   <li><strong>Jens Neuerburg</strong> (Saarland University)</li>
   <li><strong>Johannah O'Mahony</strong> (Nuance Communications)</li>
-  <li><strong>Antje Schweitzer</strong> (Stuttgart University)</li>
+  <li><strong>Antje Schweitzer</strong> (University of Stuttgart)</li>
   <!-- <li><strong>Ingo Siegert</strong> (Otto-von-Guericke University, Magdeburg)</li> -->
 </ul> 
