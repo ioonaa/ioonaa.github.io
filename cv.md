@@ -62,7 +62,8 @@ permalink: /cv/
 
 <dl>
 	<dt>since 2016</dt>	
-	<dd><strong>Associated member of SFB 1102: Information Density and Linguistic Encoding</strong>, <em>Saarland University, Saarbrücken, Germany</em><br>
+	<dd><strong>Associated member of SFB 1102: Information Density and Linguistic Encoding</strong><br>
+	<em>Saarland University, Saarbrücken, Germany</em><br>
 	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]</dd>
 </dl>
 
