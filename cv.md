@@ -47,7 +47,7 @@ permalink: /cv/
 	<dd><strong>Bachelor of Arts (BA)</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em></dd>
 </dl>
 
-## Volunteer Experience
+## Other
 
 <dl>
 	<dt>since 2016</dt>	
@@ -58,6 +58,12 @@ permalink: /cv/
 	[ISCA-SAC website: www.isca-students.org] </dd>
 	
 	
+</dl>
+
+<dl>
+	<dt>since 2016</dt>	
+	<dd><strong>Associated member of SFB 1102 - Information Density and Linguistic Encoding</strong>, <em>Saarland University, Saarbrücken, Germany</em><br>
+	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]</dd>
 </dl>
 
 <dl>
