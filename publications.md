@@ -17,9 +17,9 @@ Talk / Poster / Accepted]</strong>
   
   <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <em>Threes's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em> In: Interspeech, September 15-19, Graz/Austria.<br> [Conference, Full Paper, Talk]</dd>
     
-  <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia.<br> [Conference, Full Paper, Talk]</dd>
+  <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia, p. 1475-1479.<br> [Conference, Full Paper, Talk]</dd>
 
-<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany.<br> [Conference, Full Paper, Talk]</dd>
+<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <a href="http://www.essv.de/paper.php?id=60" target="_blank" rel="noopener"><em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em></a> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany, p. 42-49.<br> [Conference, Full Paper, Talk]</dd>
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany.<br> [Conference, Abstract, Talk]</dd>
   
