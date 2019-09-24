@@ -13,7 +13,7 @@ Talk / Poster / Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
-  <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments, p. 301-305</em></a>
+  <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 301-305.<br> [Conference, Full Paper, Talk]</dd>
   
   <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Threes's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk]</dd>
     
