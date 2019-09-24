@@ -15,7 +15,7 @@ Talk / Poster / Accepted]</strong>
   <dt>2019</dt>	
   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 301-305.<br> [Conference, Full Paper, Talk]</dd>
   
-  <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Threes's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk]</dd>
+  <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Three's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk]</dd>
     
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia, p. 1475-1479.<br> [Conference, Full Paper, Talk]</dd>
 
