@@ -56,7 +56,7 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
 
   <dt>2014</dt> 
-     <dd><strong>I. Gessinger</strong>, L. Löff Machado: <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Anniversary, Abstract, Poster]</dd>
+     <dd><strong>I. Gessinger</strong> and L. Löff Machado: <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Anniversary, Abstract, Poster]</dd>
 </dl>
 
 
