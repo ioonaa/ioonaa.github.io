@@ -13,7 +13,7 @@ Talk / Poster / Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
-    <dd><strong>I. Gessinger</strong>: <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Talk]</dd>
+    <dd><strong>I. Gessinger</strong>: <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Abstract, Talk]</dd>
   
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <em>Wo hat sich der Hase versteckt? Accommodation in a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
     
