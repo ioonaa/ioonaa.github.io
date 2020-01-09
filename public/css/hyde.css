@@ -172,6 +172,7 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -186,7 +187,6 @@ a.sidebar-nav-item:focus {
     left:   1rem;
   }
 }
-
 
 /* Container
  *

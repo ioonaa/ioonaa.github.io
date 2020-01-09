@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Curriculum Vitae
+permalink: /cv/
 ---
 
-## Work Experience
+## Work
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
+	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a></dd>
 </dl>
 
 <dl>
@@ -45,15 +47,25 @@ title: Curriculum Vitae
 	<dd><strong>Bachelor of Arts (BA)</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em></dd>
 </dl>
 
-## Volunteer Experience
+## Other
 
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2017 <em>Board Member/Webmaster</em><br>
+		since 2020 <em>General Coordinator</em><br>
+		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
-www.isca-students.org</dd>
+	[<a href="http://www.interspeech2020.org/" target="_blank" rel="noopener">Interspeech 2020 website</a>]<br>
+	[<a href="https://www.interspeech2019.org/students/student_events/" target="_blank" rel="noopener">Interspeech 2019 website</a>]</dd>
+	
+</dl>
+
+<dl>
+	<dt>since 2016</dt>	
+	<dd><strong>Associated member of SFB 1102: Information Density and Linguistic Encoding</strong><br>
+	<em>Saarland University, Saarbrücken, Germany</em><br>
+	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]</dd>
 </dl>
 
 <dl>
@@ -61,7 +73,7 @@ www.isca-students.org</dd>
 	<dd><strong>Local Organizer</strong><br>
 	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em></dd>
 	<dd>I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.<br>
-www.sites.google.com/site/2017yrrsds</dd>
+	[<a href="https://www.sites.google.com/site/2017yrrsds" target="_blank" rel="noopener">YRRSDS 2017 website</a>]</dd> 
 </dl>
 
 <dl>
