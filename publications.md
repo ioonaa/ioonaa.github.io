@@ -7,12 +7,18 @@ permalink: /publications/
 ...and Presentations
 
 Search for keywords:<br> 
-<strong>[Conference / Workshop / Anniversary,<br>
+<strong>[Conference / Workshop / Colloquium,<br>
 Full Paper / Position Paper / Abstract,<br> 
 Talk / Poster / Accepted]</strong>
 
 <dl>
   <dt>2019</dt>	
+    <dd><strong>I. Gessinger</strong>: <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Talk]</dd>
+  
+   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <em>Wo hat sich der Hase versteckt? Accommodation in a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
+    
+   <dd>E. Raveh, B. Möbius, <strong>I. Gessinger</strong>, I. Steiner: <em>Analyzing phonetic accommodation in human-human and human-computer interactions.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
+  
   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 301-305.<br> [Conference, Full Paper, Talk]</dd>
   
   <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Three's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk]</dd>
@@ -36,7 +42,7 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
  <dd><strong>I. Gessinger</strong>, E. Raveh, B. Möbius, I. Steiner: <em>Phonetic Accommodation in HCI – Planning a WoZ Experiment.</em> In: SimPhon.Net Workshop 5 – Psycholinguistic, Cognitive and Neurolinguistic Modeling in Phonetics and Phonology, June 4-6, Hohenheim/Germany.<br> [Workshop, Abstract, Talk]</dd>
   
   <dt>2017</dt>	
-   <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em> In: 25th Anniversary of the Department of Computational Linguistics and Phonetics, October 28, Saarbrücken/Germany.<br> [Anniversary, Abstract, Poster]</dd>
+   <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em> In: 25th Anniversary of the Department of Computational Linguistics and Phonetics, October 28, Saarbrücken/Germany.<br> [Colloquium, Abstract, Poster]</dd>
 
 <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, p. 3797-3801.<br> [Conference, Full Paper, Talk]</dd>
 
@@ -56,7 +62,7 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, Sept
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
 
   <dt>2014</dt> 
-     <dd><strong>I. Gessinger</strong> and L. Löff Machado: <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Anniversary, Abstract, Poster]</dd>
+     <dd><strong>I. Gessinger</strong> and L. Löff Machado: <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Colloquium, Abstract, Poster]</dd>
 </dl>
 
 
