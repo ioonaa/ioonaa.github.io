@@ -52,11 +52,12 @@ permalink: /cv/
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2017 <em>Board Member/Event Coordinator</em><br>
+		since 2019 <em>General Coordinator</em><br>
+		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
+	[<a href="http://www.interspeech2020.org/" target="_blank" rel="noopener">Interspeech 2020 website</a>]<br>
 	[<a href="https://www.interspeech2019.org/students/student_events/" target="_blank" rel="noopener">Interspeech 2019 website</a>]</dd>
-	
 	
 </dl>
 
