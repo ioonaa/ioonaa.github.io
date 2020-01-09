@@ -33,7 +33,7 @@ Talk / Poster / Accepted]</strong>
    <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius: <em>Phonetic Convergence in Human-Computer Interaction.</em> In: Workshop on Accommodation in Speech Communication, December 13, Zurich/Switzerland.<br> [Workshop, Abstract, Talk]</dd>
 
 <dd><strong>I. Gessinger</strong>, E. Raveh, B. Möbius, I. Steiner: <em>Phonetic Accommodation in HCI:
-Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 13, September 6-7, Vienna/Austria.<br> [Conference, Abstract, Poster]</dd>
+Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 14, September 6-7, Vienna/Austria.<br> [Conference, Abstract, Poster]</dd>
 
 <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://arxiv.org/pdf/1809.04945.pdf" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: 20th International Conference on Speech and Computer (SPECOM), September 18-22, Leipzig/Germany. Springer, Cham, p. 552-562.<br> [Conference, Full Paper, Talk]</dd>
 
