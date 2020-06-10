@@ -56,16 +56,18 @@ permalink: /cv/
 		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
-	[<a href="http://www.interspeech2020.org/" target="_blank" rel="noopener">Interspeech 2020 website</a>]<br>
-	[<a href="https://www.interspeech2019.org/students/student_events/" target="_blank" rel="noopener">Interspeech 2019 website</a>]</dd>
+	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
+	[<a href="http://www.interspeech2020.org/Student_Events/" target="_blank" rel="noopener">Interspeech 2020 website</a>]</dd>
 	
 </dl>
 
 <dl>
 	<dt>since 2016</dt>	
-	<dd><strong>Associated member of SFB 1102: Information Density and Linguistic Encoding</strong><br>
+	<dd><strong>Associated member of SFB 1102: <i>Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)</strong><br>
 	<em>Saarland University, Saarbrücken, Germany</em><br>
-	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]</dd>
+	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]<br>
+	[<a href="http://www.sfb1102.uni-saarland.de/?page_id=1275" target="_blank" rel="noopener">IGK website</a>]
+	</dd>
 </dl>
 
 <dl>
