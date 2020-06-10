@@ -12,6 +12,9 @@ Full Paper / Position Paper / Abstract,<br>
 Talk / Poster / Accepted]</strong>
 
 <dl>
+   <dt>2020</dt>	
+    <dd><strong>I. Gessinger</strong>: <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
+  
   <dt>2019</dt>	
     <dd><strong>I. Gessinger</strong>: <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Abstract, Talk]</dd>
   
