@@ -13,7 +13,9 @@ In the first year of funding we have demonstrated that human experimental subjec
 
 ![Foto]({{ site.url }}/images/experiment.jpg "Shadowing Experiment"){:height="200px" .center-image}
 
-In the second funding phase the project aims to extend the experimental approach to a Wizard-of-Oz scenario, develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
+In the second funding phase, we extended the experimental approach to a Wizard-of-Oz scenario. 
+
+The project also aims to develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
 
 Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a> and <a href="https://www.mmci.uni-saarland.de/en/eraveh" target="_blank" rel="noopener">here</a>.
 
