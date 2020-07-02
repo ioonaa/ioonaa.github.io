@@ -8,11 +8,11 @@ This research project is concerned with phonetic convergence in human-computer i
 
 Phonetic convergence denotes an increase in similarity of the speech patterns of two interlocutors in communicative interaction. This phenomenon has been found and studied thoroughly in human-human interaction. There is now an increased interest to explore phonetic convergence in human-computer interaction (HCI) as well, since spoken dialogue system are becoming more and more integrated in our everyday life.
 
-In the first year of funding, we have demonstrated that human experimental subjects show patterns of phonetic convergence when being exposed to synthetic voices in a shadowing experiment (see below) that are similar to the convergence patterns observed in human-human interaction.
+In the first year of funding, we have demonstrated that human experimental subjects show patterns of phonetic convergence when being exposed to synthetic voices in a <strong>shadowing experiment</strong> (see figure below) that are similar to the convergence patterns observed in human-human interaction.
 
 ![Foto]({{ site.url }}/images/experiment.jpg "Shadowing Experiment"){:height="200px" .center-image}
 
-In the second funding phase, we extended the experimental approach to a <strong>Wizard-of-Oz scenario</strong> and found that human interlocutors of our simulated spoken dialogue system <strong>Mirabella</strong> adapted their question intonation and segmental pronunciation to her.
+In the second funding phase, we extended the experimental approach to a <strong>Wizard-of-Oz scenario</strong> and found that human interlocutors of our simulated spoken dialogue system <strong>Mirabella</strong> adapted their question intonation and segmental pronunciation to her (see video below).
 
 <iframe width="640" height="360" src="https://player.vimeo.com/video/434146823" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
