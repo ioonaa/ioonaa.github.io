@@ -3,7 +3,7 @@ layout: post
 
 title: Interspeech (October 25-29, 2020)
 ---
-This year <strong>Interspeech</strong> was held as a fully virutal conference under the motto <strong><q>Cognitive Intelligence for Speech Processing</q></strong>.
+This year, <strong>Interspeech</strong> was held as a fully virtual conference under the motto <strong><q>Cognitive Intelligence for Speech Processing</q></strong>.
 A big thank you to the organizers in <strong>Shanghai/China</strong>, who made it possible for our community to meet and exchange ideas despite the global pandemic.
 
 Our group presented joint work with <strong>Michelle Cohn</strong>, <strong>Kristin Predeck</strong>, and <strong>Georgia Zellou</strong> 
