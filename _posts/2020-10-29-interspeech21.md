@@ -13,6 +13,6 @@ from the University of California, Davis, in the session on <strong>Computationa
 Our paper 
 <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><strong>Phonetic Accommodation of L2 German Speakersto the Virtual Language Learning Tutor Mirabella</strong></a> 
 was part of the session on <strong>Accoustic Phonetics of L1-L2</strong> and received an <strong>ISCA Award for Best Student Paper at Interspeech 2020</strong>!
-<strong>Here's to you, Mirabella!</strong>
+Here's to you, Mirabella!
 
 <a href="https://www.isca-speech.org/archive/Interspeech_2020/" target="_blank" rel="noopener">Proceedings</a>
