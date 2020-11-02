@@ -16,7 +16,9 @@ was part of the session on <strong>Accoustic Phonetics of L1-L2</strong> and rec
 Here's to you, Mirabella!
 
 This video gives a short overview of the paper: 
+
 <iframe width="640" height="336" src="https://player.vimeo.com/video/474666595" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 Please do not hesitate to contact me if you have any questions.
 
 <a href="https://www.isca-speech.org/archive/Interspeech_2020/" target="_blank" rel="noopener">Proceedings</a>
