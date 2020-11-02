@@ -13,9 +13,9 @@ Talk / Poster / Accepted]</strong>
 
 <dl>
    <dt>2020</dt>	
-   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em> In: Interspeech, October 25-29, Shanghai/China, accepted.<br> [Conference, Full Paper, Talk]</dd>
+   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk] <strong>Best Student Paper Award</strong></dd>
    
-   <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou: <em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em> In: Interspeech, October 25-29, Shanghai/China, accepted.<br> [Conference, Full Paper, Talk]</dd> 
+   <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1938.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk]</dd> 
    
    <dd><strong>I. Gessinger</strong>: <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
   
