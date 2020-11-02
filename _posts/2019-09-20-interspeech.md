@@ -7,7 +7,7 @@ This year's <strong>Interspeech</strong> was jointly organized by the speech com
 We presented our work in the sessions on <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><strong>Sociophonetics</strong></a> and <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><strong>Adaptation and Accommodation in Conversation</strong></a>.
 Thanks to the organizers for a great week at Messecongress Graz!
 
-<a href="https://www.isca-speech.org/archive/Interspeech_2019/" target="_blank" rel="noopener">Proceedings</a>
+<a href="https://www.isca-speech.org/archive/Interspeech_2019/" target="_blank" rel="noopener">Proceedings of Interspeech 2019</a>
 
 For videos of keynote and survey talks, please visit the <a href="https://www.youtube.com/channel/UC5KMlgs8x5G3r4W9rImMHlg" target="_blank" rel="noopener">YouTube channel</a> of Interspeech 2019. 
 
