@@ -3,10 +3,10 @@ layout: post
 title: ISCA-SAC&colon; 2<sup>nd</sup> Mentoring (October 26, 2020)
 ---
 
-At the <strong>2<sup>nd</sup> Mentoring</strong> event organized by 
+The <strong>2<sup>nd</sup> Mentoring event</strong> was organized by 
 <a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener"><strong>ISCA-SAC</strong></a>
-at <strong>Interspeech 2020</strong> in Shanghai/China, students had the opportunity to discuss one of the following topics
-with a team of mentors per group: 
+at <strong>Interspeech 2020</strong> in Shanghai/China. PhD students had the opportunity to discuss one of the following topics
+with a team of two mentors per topic: 
 
  <ul>
   <li>Essentials of publishing</li>
@@ -18,4 +18,4 @@ with a team of mentors per group:
 
 We thank all mentors and students for making this event possible!
 
-![Foto]({{ site.url }}/images/mentoring2.jpg "2nd ISCA-SAC Mentoring"){:height="260px" .center-image}
+![Foto]({{ site.url }}/images/mentoring2.jpg "2nd ISCA-SAC Mentoring"){:height="400px" .center-image}
