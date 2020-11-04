@@ -11,7 +11,7 @@ from the University of California, Davis, in the session on <strong>Computationa
 <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1938.pdf" target="_blank" rel="noopener"><strong>Differences in Gradient Emotion Perception: Human vs. Alexa Voices</strong></a>.
 
 Our second paper, 
-<a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><strong>Phonetic Accommodation of L2 German Speakersto the Virtual Language Learning Tutor Mirabella</strong></a>, 
+<a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><strong>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella</strong></a>, 
 was part of the session on <strong>Accoustic Phonetics of L1-L2</strong> and received the <strong>ISCA Award for Best Student Paper at Interspeech 2020</strong>!
 Here's to you, Mirabella! &#129346; &#127870;
 
