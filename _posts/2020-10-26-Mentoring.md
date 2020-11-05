@@ -9,11 +9,11 @@ at <strong>Interspeech 2020</strong> in Shanghai/China. PhD students had the opp
 with a team of two mentors per topic: 
 
  <ul>
-  <li>Essentials of publishing</li>
-  <li>PhD topic: focus and passion</li>
-  <li>Time management for PhD students</li>
-  <li>Professional development: planning ahead</li>
-  <li>How to do research in academia vs. industry</li>
+  <li>Essentials of publishing &#128214; 	&#128202;</li>
+  <li>PhD topic: focus and passion 	&#128270; &#128525;</li>
+  <li>Time management for PhD students &#9200; &#128197;</li>
+  <li>Professional development: planning ahead &#128105; &#127758;</li>
+  <li>How to do research in academia vs. industry &#128104; &#128105;</li>
 </ul> 
 
 We thank all mentors and students for making this event possible!
