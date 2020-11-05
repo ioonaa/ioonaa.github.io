@@ -13,7 +13,7 @@ with a team of two mentors per topic:
   <li>PhD topic: focus and passion 	&#128270; &#128525;</li>
   <li>Time management for PhD students &#9200; &#128197;</li>
   <li>Professional development: planning ahead &#57356; &#127758;</li>
-  <li>How to do research in academia vs. industry &#128104;&#8205;&#127979; &#128105; &#8205; &#128300;</li>
+  <li>How to do research in academia vs. industry &#128104;&#8205;&#127979; &#128105;&#8205;&#128300;</li>
 </ul> 
 
 We thank all mentors and students for making this event possible!
