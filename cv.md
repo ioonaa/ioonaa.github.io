@@ -50,6 +50,12 @@ permalink: /cv/
 ## Other
 
 <dl>
+	<dt>since 2020</dt>	
+	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
+	<em>SAC Representative</em></dd>
+</dl>
+
+<dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
 		since 2020 <em>General Coordinator</em><br>
