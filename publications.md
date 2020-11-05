@@ -14,7 +14,7 @@ Talk / Poster / Accepted]</strong>
 <dl>
    <dt>2020</dt>	
      <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius: <em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and
-Individuals in Speech Shadowing .</em>.<br> [Journal, Full Paper, Accepted]</dd>
+Individuals in Speech Shadowing</em>.<br> [Journal, Full Paper, Accepted]</dd>
    
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk] <br>
  &#8594; ISCA Award for Best Student Paper at Interspeech 2020</dd>
