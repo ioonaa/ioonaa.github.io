@@ -18,7 +18,4 @@ with a team of two mentors per topic:
 
 We thank all mentors and students for making this event possible!
 
-<div class="imageContainer">
 ![Foto]({{ site.url }}/images/mentoring2.jpg "2nd ISCA-SAC Mentoring"){:height="400px" .center-image}
-</div>
-
