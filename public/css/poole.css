@@ -129,10 +129,6 @@ dd {
 }
 
 /* Misc */
-.imageContainer > img:hover {
-  width: 500px;
-  height: 200px;
-}
 
 hr {
   position: relative;
