@@ -61,6 +61,11 @@ html {
     margin: 0 0 0 auto;
 }
 
+.zoom-hover 
+{
+  transform: scale(2);
+}
+
 /*.comic  {
   float: right;
   padding-right: 1rem;
