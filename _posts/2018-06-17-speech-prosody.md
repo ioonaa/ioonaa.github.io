@@ -9,4 +9,4 @@ Our talk was part of the session on <strong>prosody and discourse</strong> toget
 <a href="https://www.isca-speech.org/archive/SpeechProsody_2018/" target="_blank" rel="noopener">Book of abstracts</a>
 
 
-![Foto]({{ site.url }}/images/poznan.jpg "Poznan"){:height="260px" .center-image}
+<img src="{{ site.url }}/images/poznan.jpg" alt="Poznan" class="center-image" height="260">
