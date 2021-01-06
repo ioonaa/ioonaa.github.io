@@ -4,7 +4,7 @@ title: CHIC Project
 permalink: /chicproject/
 ---
 
-This research project is concerned with phonetic convergence in human-computer interaction. It is funded by the DFG (2016-2020) and led by <strong>Bernd Möbius</strong> (Saarland University) and <strong>Ingmar Steiner</strong> (audEERING GmbH). The CHIC team further consists of research assistants <strong>Eran Raveh</strong> (Saarland University) and <strong>Iona Gessinger</strong> (Saarland University).
+This research project is concerned with phonetic convergence in human-computer interaction. It is funded by the DFG (2016-2021) and led by <strong>Bernd Möbius</strong> (Saarland University) and <strong>Ingmar Steiner</strong> (audEERING GmbH). The CHIC team further consists of research assistants <strong>Eran Raveh</strong> (Saarland University) and <strong>Iona Gessinger</strong> (Saarland University).
 
 Phonetic convergence denotes an increase in similarity of the speech patterns of two interlocutors in communicative interaction. This phenomenon has been found and studied thoroughly in human-human interaction. There is now an increased interest to explore phonetic convergence in human-computer interaction (HCI) as well, since spoken dialogue systems are becoming more and more integrated in our everyday life.
 
