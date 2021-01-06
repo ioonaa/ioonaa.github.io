@@ -61,7 +61,7 @@ html {
     margin: 0 0 0 auto;
 }
 
-.zoom-hover 
+.zoom:hover 
 {
   transform: scale(2);
 }
