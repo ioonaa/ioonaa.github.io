@@ -12,7 +12,8 @@ Full Paper / Position Paper / Abstract,<br>
 Talk / Poster / Accepted]</strong>
 
 <dl>
-   <dt>2021</dt>	   
+   <dt>2021</dt>	 
+        <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner: <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em><br> [Journal, Accepted]</dd>
      <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius: <a href="http://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and
 Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal]</dd>
      
