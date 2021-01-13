@@ -88,7 +88,8 @@ permalink: /cv/
 	<dt>since 2013</dt>	
 	<dd><strong>Newsreader</strong><br>
 	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em></dd>
-	<dd>MIKS - an audio journal for visually impaired and blind people.</dd>
+	<dd>MIKS - an audio journal for visually impaired and blind people.<br>
+	[<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">MIKS website</a>]</dd>
 </dl>
 
 
