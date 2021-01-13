@@ -52,7 +52,7 @@ permalink: /cv/
 <dl>
 	<dt>since 2020</dt>	
 	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
-	<em>SAC Representative</em><br>
+	<em>Representative of SAC</em><br>
 	[<a href="https://www.isca-speech.org/iscaweb/index.php/distinguished-lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
 </dl>
 
