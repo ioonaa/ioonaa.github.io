@@ -65,7 +65,7 @@ permalink: /cv/
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
 	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
-	[<a href="http://www.interspeech2020.org/Student_Events/" target="_blank" rel="noopener">Interspeech 2020 website</a>]</dd>
+	[<a href="http://www.interspeech2020.org/Student_Events/" target="_blank" rel="noopener">Interspeech 2020 website: Student Events</a>]</dd>
 	
 </dl>
 
