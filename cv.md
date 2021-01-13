@@ -58,7 +58,8 @@ permalink: /cv/
 <dl>
 	<dt>since 2016</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2020 <em>General Coordinator</em><br>
+		since 2021 <em>Advisor</em><br>
+		2020 <em>General Coordinator</em><br>
 		since 2017 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
