@@ -19,7 +19,7 @@ Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<b
      
    <dt>2020</dt>
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk] <br>
-   <a style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020</a></dd>
+   <p style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020</p></dd>
    
    <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1938.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk]</dd> 
    
@@ -38,7 +38,8 @@ Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<b
     
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia, p. 1475-1479.<br> [Conference, Full Paper, Talk]</dd>
 
-<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <a href="http://www.essv.de/paper.php?id=60" target="_blank" rel="noopener"><em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em></a> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany, p. 42-49.<br> [Conference, Full Paper, Talk]</dd>
+<dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius: <a href="http://www.essv.de/paper.php?id=60" target="_blank" rel="noopener"><em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em></a> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany, p. 42-49.<br> [Conference, Full Paper, Talk]
+<p style="color:#699eb5">&#8594; Best Student Paper at ESSV 2019</p></dd>
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner: <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany.<br> [Conference, Abstract, Talk]</dd>
   
