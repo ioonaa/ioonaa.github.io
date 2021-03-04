@@ -15,7 +15,7 @@ Talk / Poster / Accepted]</strong>
    <dt>2021</dt>	 
         <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner: <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em><br> [Journal, Accepted]</dd>
    
-   <dd>B. Andreeva, G. Demenko, J. Bachan, <strong>I. Gessinger</strong>, K. Jankowska, B. Möbius: <em>Phonetic convergence evaluation based on fundamental frequency variability.</em>In: 32th Conference on Electronic Speech Signal Processing (ESSV), March 3-5, Berlin/Germany, p. 153-160.<br> [Conference, Full Paper, Talk]</dd>
+   <dd>B. Andreeva, G. Demenko, J. Bachan, <strong>I. Gessinger</strong>, K. Jankowska, B. Möbius: <em>Phonetic convergence evaluation based on fundamental frequency variability.</em> In: 32th Conference on Electronic Speech Signal Processing (ESSV), March 3-5, Berlin/Germany, p. 153-160.<br> [Conference, Full Paper, Talk]</dd>
    
    <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius: <a href="http://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and
 Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal]</dd>
