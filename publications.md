@@ -20,10 +20,10 @@ Talk / Poster / Accepted]</strong>
    <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius: <a href="https://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal, <a href="https://doi.org/10.1016/j.specom.2020.12.004" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dt>2020</dt>
-   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk] <br>
+   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2701.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-2701" target="_blank" rel="noopener">DOI</a>] <br>
    <p style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020</p></dd>
    
-   <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1938.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk]</dd> 
+   <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou: <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1938.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-1938" target="_blank" rel="noopener">DOI</a>]</dd> 
    
    <dd><strong>I. Gessinger</strong>: <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
   
@@ -34,9 +34,9 @@ Talk / Poster / Accepted]</strong>
     
    <dd>E. Raveh, B. Möbius, <strong>I. Gessinger</strong>, I. Steiner: <em>Analyzing phonetic accommodation in human-human and human-computer interactions.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
   
-  <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 301-305.<br> [Conference, Full Paper, Talk]</dd>
+  <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2445.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation in a Wizard-of-Oz Experiment: Intonation and Segments.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 301-305.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2019-2445" target="_blank" rel="noopener">DOI</a>]</dd>
   
-  <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Three's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk]</dd>
+  <dd>E. Raveh, I. Siegert, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1825.pdf" target="_blank" rel="noopener"><em>Three's a Crowd? Effects of a Second Human on Vocal Accommodation with a Voice Assistant.</em></a> In: Interspeech, September 15-19, Graz/Austria, p. 4005-4009.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2019-1825" target="_blank" rel="noopener">DOI</a>]</dd>
     
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner: <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia, p. 1475-1479.<br> [Conference, Full Paper, Talk]</dd>
 
@@ -53,14 +53,14 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 14, Sept
 
 <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius: <a href="https://arxiv.org/pdf/1809.04945.pdf" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: 20th International Conference on Speech and Computer (SPECOM), September 18-22, Leipzig/Germany. Springer, Cham, p. 552-562.<br> [Conference, Full Paper, Talk]</dd>
 
-<dd><strong>I. Gessinger</strong>, A. Schweitzer, B. Andreeva, E. Raveh, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/160.pdf" target="_blank" rel="noopener"><em>Convergence of Pitch Accents in a Shadowing Task.</em></a> In: Speech Prosody 9, June 13-16, Poznań/Poland, p. 225-229.<br> [Conference, Full Paper, Talk]</dd>
+<dd><strong>I. Gessinger</strong>, A. Schweitzer, B. Andreeva, E. Raveh, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/160.pdf" target="_blank" rel="noopener"><em>Convergence of Pitch Accents in a Shadowing Task.</em></a> In: Speech Prosody 9, June 13-16, Poznań/Poland, p. 225-229.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/SpeechProsody.2018-46" target="_blank" rel="noopener">DOI</a>]</dd>
  
  <dd><strong>I. Gessinger</strong>, E. Raveh, B. Möbius, I. Steiner: <em>Phonetic Accommodation in HCI – Planning a WoZ Experiment.</em> In: SimPhon.Net Workshop 5 – Psycholinguistic, Cognitive and Neurolinguistic Modeling in Phonetics and Phonology, June 4-6, Hohenheim/Germany.<br> [Workshop, Abstract, Talk]</dd>
   
   <dt>2017</dt>	
    <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em> In: 25th Anniversary of the Department of Computational Linguistics and Phonetics, October 28, Saarbrücken/Germany.<br> [Colloquium, Abstract, Poster]</dd>
 
-<dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, p. 3797-3801.<br> [Conference, Full Paper, Talk]</dd>
+<dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner: <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1433.PDF" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, p. 3797-3801.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2017-1433" target="_blank" rel="noopener">DOI</a>]</dd>
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner: <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, September 28-29, Berlin/Germany.<br> [Conference, Abstract, Talk]</dd>
  
