@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-In the course of my education as a phonetician, I was engaged in various fields of application. Having a background in Romance studies, I started with the phonetics of <strong>foreign language learning</strong>, continued in the area of <strong>forensic phonetics</strong>, and am now working on <strong>phonetic accommodation in human-computer interaction</strong>. As spoken dialogue systems are becoming a part of our daily life, it is imperative to further explore the behavior of their human interlocutor.
+In the course of my education as a phonetician, I was engaged in various fields of application. Having a background in Romance studies, I started with the phonetics of <strong>foreign language learning</strong>, continued in the area of <strong>forensic phonetics</strong>, and am now working on <strong>phonetic accommodation in human-computer interaction</strong>. As spoken dialog systems become a part of our daily lives, I believe it is imperative to further investigate the behavior of their human interlocutors in order to incorporate these findings into the development of the systems.
 
 ![Foto]({{ site.url }}/images/iona.jpg "Iona Gessinger"){:height="260px" .center-image}
 
