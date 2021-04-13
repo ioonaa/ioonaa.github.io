@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Announcing Speech Pitch &#128226;
+title: &#128483; Announcing Speech Pitch
 ---
 <blockquote>
 <strong><a href="https://anchor.fm/isca-sac" target="_blank" rel="noopener">Speech Pitch</a></strong>
