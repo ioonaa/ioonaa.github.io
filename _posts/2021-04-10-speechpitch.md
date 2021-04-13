@@ -3,7 +3,7 @@ layout: post
 
 title: Announcing Speech Pitch &#128226;
 ---
-
+<blockquote>
 <strong><a href="https://anchor.fm/isca-sac" target="_blank" rel="noopener">Speech Pitch</a></strong>
 is ISCA-SAC's <a href="#section1">[1]</a> new podcast. 
 Throughout the episodes, we will interview different guests, mostly from the speech community, in an informal setting. 
@@ -14,7 +14,7 @@ especially in pandemic times where we lack presencial conferences and other soci
 We will try to have a new episode every 2 or 3 months. We hope you enjoy listening to it, and stay tuned!
 
 <p id="section1">[1] Student Advisory Committee of the International Speech Communication Association</p>
-
+</blockquote>
 
 ...and I had the honor to be the featured guest on the
 <strong><a href="https://anchor.fm/isca-sac/episodes/1-Speech-Pitch-Iona-Gessinger-eufetc" target="_blank" rel="noopener">first episode</a></strong>
