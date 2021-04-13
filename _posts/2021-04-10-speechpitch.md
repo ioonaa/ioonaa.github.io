@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Announcing SpeechPitch
+title: Announcing Speech Pitch &#128226;
 ---
 
 <strong><a href="https://anchor.fm/isca-sac" target="_blank" rel="noopener">Speech Pitch</a></strong>
@@ -16,11 +16,9 @@ We will try to have a new episode every 2 or 3 months. We hope you enjoy listeni
 <p id="section1">[1] Student Advisory Committee of the International Speech Communication Association</p>
 
 
-I had the honor to be the featured guest on the
+...and I had the honor to be the featured guest on the
 <strong><a href="https://anchor.fm/isca-sac/episodes/1-Speech-Pitch-Iona-Gessinger-eufetc" target="_blank" rel="noopener">first episode</a></strong>
 of Speech Pitch.
-
-
-
+Many thanks to the hosts <strong>Catarina Botelho</strong> and <strong>Francisco Teixeira</strong> for making this such a pleasant experience! &#128079; 
 
 
