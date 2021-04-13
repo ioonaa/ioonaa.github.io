@@ -15,7 +15,7 @@ permalink: /cv/
 <dl>
 	<dt>2015-2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
-	<dd>Project: REDE – regionalsprache.de, fundend by Akademie der Wissenschaften und der Literatur, Mainz</dd>
+	<dd>Project: regionalsprache.de (REDE), fundend by Akademie der Wissenschaften und der Literatur, Mainz</dd>
 </dl>
 
 <dl>
