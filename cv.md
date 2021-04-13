@@ -9,13 +9,13 @@ permalink: /cv/
 	<dt>since 2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
-	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a></dd>
+	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
 </dl>
 
 <dl>
 	<dt>2015-2016</dt>	
 	<dd><strong>Research Assistant</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
-	<dd>Project: REDE – Regionalsprache.de</dd>
+	<dd>Project: REDE – regionalsprache.de, fundend by Akademie der Wissenschaften und der Literatur, Mainz</dd>
 </dl>
 
 <dl>
@@ -39,12 +39,12 @@ permalink: /cv/
 
 <dl>
 	<dt>2012-2014</dt>	
-	<dd><strong>Master of Arts (MA)</strong>: Speech Science – Phonetics, <em>University of Marburg, Germany</em></dd>
+	<dd><strong>Master of Arts</strong>: Speech Science – Phonetics, <em>University of Marburg, Germany</em></dd>
 </dl>
 
 <dl>
 	<dt>2008-2012</dt>	
-	<dd><strong>Bachelor of Arts (BA)</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em></dd>
+	<dd><strong>Bachelor of Arts</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em></dd>
 </dl>
 
 ## Other
