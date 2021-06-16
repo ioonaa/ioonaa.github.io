@@ -34,8 +34,8 @@ permalink: /cv/
 
 <dl>
 	<dt>since 2016</dt>	
-	<dd><strong>PhD Student</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em></dd>
-	<dd><p style="color:#699eb5">&#8594; thesis submitted: June 9, 2021</p></dd>
+	<dd><strong>PhD Student</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
+	<p style="color:#699eb5">&#8594; thesis submitted: June 9, 2021</p></dd>
 </dl>
 
 <dl>
@@ -49,6 +49,21 @@ permalink: /cv/
 </dl>
 
 ## Other
+
+<dl>
+	<dt>2021</dt>	
+	<dd><strong>Co-organizer</strong><br>
+	<em>Conference: Human perspectives on spoken human--machine interaction</em><br>
+	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
+</dl>
+
+<dl>
+	<dt>2021</dt>	
+	<dd><strong>Co-organizer</strong><br>
+	<em>Young Female Researchers in Speech Workshop</em><br>
+	[<a href="https://sites.google.com/view/yfrsw-2021" target="_blank" rel="noopener">Workshop website</a>]</dd>
+</dl>
+
 
 <dl>
 	<dt>since 2020</dt>	
