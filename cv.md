@@ -53,7 +53,7 @@ permalink: /cv/
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-organizer</strong><br>
-	<em>Conference: Human perspectives on spoken human--machine interaction</em><br>
+	<em>Human perspectives on spoken human--machine interaction</em><br>
 	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
 </dl>
 
