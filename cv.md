@@ -7,7 +7,7 @@ permalink: /cv/
 ## Work
 <dl>
 	<dt>since 2016</dt>	
-	<dd><strong>Research Assistant</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
+	<dd><strong>Research Associate</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
 	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
 </dl>
@@ -20,7 +20,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2014-2015</dt>	
-	<dd><strong>Teaching Assistant</strong>, <em>Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil</em></dd>
+	<dd><strong>Teaching Associate</strong>, <em>Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil</em></dd>
 	<dd>Joint scholarship program of the German Academic Exchange Service (DAAD) and the Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES).</dd>
 </dl>
 
@@ -65,7 +65,7 @@ permalink: /cv/
 		2016-2017 <em>Volunteer</em></dd>
 	<dd>We are organizing student events for the annual Interspeech conference.<br>
 	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
-	[<a href="http://www.interspeech2020.org/Student_Events/" target="_blank" rel="noopener">Interspeech 2020 website: Student Events</a>]</dd>
+	[<a href="https://www.interspeech2021.org/student-information/student-events" target="_blank" rel="noopener">Interspeech 2021 website: Student Events</a>]</dd>
 	
 </dl>
 
