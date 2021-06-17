@@ -4,7 +4,7 @@ title: CHIC Project
 permalink: /chicproject/
 ---
 
-This research project is concerned with phonetic convergence in human-computer interaction. It is funded by the DFG (2016-2021) and led by <strong>Bernd Möbius</strong> (Saarland University) and <strong>Ingmar Steiner</strong> (audEERING GmbH). The CHIC team further consists of research assistants <strong>Eran Raveh</strong> (Saarland University) and <strong>Iona Gessinger</strong> (Saarland University).
+This research project is concerned with phonetic convergence in human-computer interaction. It is funded by the DFG (2016-2021) and led by <strong>Bernd Möbius</strong> (Saarland University) and <strong>Ingmar Steiner</strong> (audEERING GmbH). The CHIC team further consists of research associates <strong>Eran Raveh</strong> (Saarland University) and <strong>Iona Gessinger</strong> (Saarland University).
 
 Phonetic convergence denotes an increase in similarity of the speech patterns of two interlocutors in communicative interaction. This phenomenon has been found and studied thoroughly in human-human interaction. There is now an increased interest to explore phonetic convergence in human-computer interaction (HCI) as well, since spoken dialogue systems are becoming more and more integrated in our everyday life.
 
@@ -12,7 +12,7 @@ In the first year of funding, we have demonstrated that human experimental subje
 
 ![Foto]({{ site.url }}/images/experiment.jpg "Shadowing Experiment"){:height="200px" .center-image}
 
-In the second funding phase, we extended the experimental approach to a <strong>Wizard-of-Oz scenario</strong> and found that human interlocutors of our simulated spoken dialogue system <strong>Mirabella</strong> adapted their question intonation and segmental pronunciation to her (see video below).
+In the second funding phase, we extended the experimental approach to a <strong>Wizard-of-Oz scenario</strong> and found that human interlocutors of our simulated spoken dialog system <strong>Mirabella</strong> adapted their question intonation and segmental pronunciation to her (see video below).
 
 <iframe width="640" height="360" src="https://player.vimeo.com/video/434146823" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
